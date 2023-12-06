@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\KingPrice_API.props" />
+</Project>
