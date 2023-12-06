@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "omFKfdUsuEP/ZJNGc5CEnhh7FTWMERyYWrVMaFhyng++/zdo9QYKjlMyzzT/+FsD6CR517oOAGoDbN2Wz7+3vg==",
+  "dgSpecHash": "8bpTakP8EuSBHa34yev6lsDpNDCbBL7+ze+g+XIxevdTYvfrnoPYUmIhSMuepLsntxeG/tagyYxs3OoD4TMRPQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JasonMarques\\Documents\\Personal\\Assessment\\KingPrice_API\\KingPrice_API\\KingPrice_API.csproj",
+  "projectFilePath": "C:\\Users\\JasonMarques\\Documents\\GitHub\\KingPrice_API\\KingPrice_API\\KingPrice_API\\KingPrice_API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JasonMarques\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\JasonMarques\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
